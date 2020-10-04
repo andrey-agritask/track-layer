@@ -1,0 +1,115 @@
+{
+    "id": "72162552288837635",
+    "resource": "72158656969965569",
+    "location": "72148337245290497",
+    "segments": [
+        {
+            "id": "0",
+            "path": "|{alAjs~uGzBoAdD`EdM|OhLzNpLfOTV",
+            "simplePath": "|{alAjs~uGxq@jt@",
+            "markers": [
+                {
+                    "position": {
+                        "lat": -12.630558,
+                        "lng": -45.709504,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 01:42",
+                    "speed": 23.6,
+                    "direction": 147.5,
+                    "timeSec": 1601516569,
+                    "color": "green",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.634273,
+                        "lng": -45.712785,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 01:44",
+                    "speed": 22.5,
+                    "direction": 229.4,
+                    "timeSec": 1601516690,
+                    "color": "green",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.638579,
+                        "lng": -45.717925,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 01:46",
+                    "speed": 22.8,
+                    "direction": 226.2,
+                    "timeSec": 1601516810,
+                    "color": "green",
+                    "__typename": "TrackMarker"
+                }
+            ],
+            "__typename": "TrackSegment"
+        },
+        {
+            "id": "1",
+            "path": "t`blArq~uG{BvFGVAdT~@vDtDbHzJtHhAb@pIzAdPy@j@O",
+            "simplePath": "t`blArq~uGeCt\\tFzMvWtLpQiA",
+            "markers": [
+                {
+                    "position": {
+                        "lat": -12.631317,
+                        "lng": -45.70923,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 03:39",
+                    "speed": 17.1,
+                    "direction": 297.4,
+                    "timeSec": 1601523590,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.630641,
+                        "lng": -45.713978,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 03:41",
+                    "speed": 20.2,
+                    "direction": 249.8,
+                    "timeSec": 1601523712,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.633775,
+                        "lng": -45.717908,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 03:43",
+                    "speed": 15.1,
+                    "direction": 205.2,
+                    "timeSec": 1601523833,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.638584,
+                        "lng": -45.718259,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 03:45",
+                    "speed": 19.3,
+                    "direction": 160.2,
+                    "timeSec": 1601523944,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                }
+            ],
+            "__typename": "TrackSegment"
+        }
+    ],
+    "__typename": "Track"
+}

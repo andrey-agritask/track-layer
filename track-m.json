@@ -1,0 +1,614 @@
+{
+    "id": "72162553941065730",
+    "resource": "72158657011187713",
+    "location": "72156409439715344",
+    "segments": [
+        {
+            "id": "0",
+            "path": "rexmAxclvGwIr@yGtCuBnBwA~ABd@hEgFtAO??DBXf@]aA??\\QBDnAzChBnEd@nArAnDvBvFfB|EvAvD\\|@tBvFv@rB??Zz@l@d@O]DHc@kAkBaFgByE}@cC[w@oBmFeBsEaCqGsBqFu@oBk@m@Nf@l@bBtBtFoAoB}@aCOqB[V?????@??DHxA~DxB|F??tBtFhB`FbBnE`BlE`BjEp@hBZx@d@hCuAuDyA{DcBqEeBuEgBwE_BiEaBoEeBuEyA}De@i@Hh@~AjEdBtEbBnEbBpEbBnExA|DdBtEdBtEvAzDAFuAgCcBsEeBwEeBsEcBoEaBoEyA{DeBuEuB{DbBnEbBnEbBpExAzDdBtEdBvEdBtEdBvENvA_BgEyA{DeBwEeBuEgBwEcBqEeBwEcBoEuAeDDt@??????????bAnChB|EdBrEdBtEhAzC????????????Vr@`BjEdBtEvB|FbAvC]M????????????????????_AgCcBoEyA}DoBiF{DmKiB{EeBwEeBsEp@`DbBpEh@tAb@jA??????????????????????????sAwB}B}Hi@uB?B??????????????????????????????????????????????dCaAdB[x@bBbBtEdBrEdBtEpAlE\\j@^t@tArDTn@Rh@fBvEdBtEa@jCoDv@sAuDaBkEwAyDeBuEeBuEeBuEcBqEe@oAkA}CwAaD??????????EFbAzC`BnEzA~DdBtEfBvEbBrEbBnE`BnEbBlEqAqBgBuEeBwEeBuEaBoEcBqEmBeFaBkEsAaEX~BxA|DdBtEdBvEfBtE`BpEdBtEbBnExA|DgA}AeBuEeBuE_BgEeBwEeBwE_BgEeBwEeByCxAzDbBnE`BpEbBnEdBtEdBrEfB|EdBpE@|@yA{DyAyDeBwEiB}EeBuEcBsEcBoEcBqEWF??????????DHxA|DbBpEtArDbBnE`BnEbBnE~AjE~AhEm@e@mBgF_BkEcBoEcBqE{AaEeBuEeBwEs@s@`BlE`BnEfBvE`BpEfAtCACz@|BfBvEVr@d@lAn@|CqAiDeBwEgBwEeBwE_BgEeBuEeBwEgBmDpAzDfBtEdBvEbBpEbBnEbBpEdBvEn@bDyAcE}AaE????????CIgB{EkB_F}BgG{BeGy@yBKyB@aA??????????????????????????????????????????????????????????c@f@VdBv@vBzA~DnBfF`BpEzA|DdBtE`@fApAlDR~Ag@sAKUcBqEcBqEyA}DeBwEgBuEeBwEyA_CtAnDdBvE~@bC??d@nAdBtEdBtEbBpEbBnE]CeBsEcBqEcBoEyA}DiB}EeBwEsAuB~AhEbBnEbBpExA|DdBtEfBvElAdE]e@q@kBcBoEgBwEyA}DgByEeBuEcBsEJrAdBvEfBvEbBnE`BpEbBpEdBrEHRw@{@eBuEcBqE{AaEgBwEeBwEaBmEId@Xr@|AhEbBnEfBvE`BpEbBnEt@bDLIg@g@????????????????????????????????????EKyA}Du@oBcBoE_@cA??Yu@cBsEgAwCOa@_AcCQMIC????????????????????????????????????????????????????VbA`BlE~AhEdBtEfBvEdBtECp@eAqC]}@}AgEEK??AAyA_EgCyGqBeEB@????????????????????????????????????????????????????????????????????????????????????????????????????????????WLv@zAIwAJ???KBLhApAjD`@hAf@dErAnDtArDhA|Cq@cD]aA????cAmCyA{D{A_EuAwDLWBBSuBz@rCxAzDxAzDvAxDzA~DvAvDq@m@oAiDyA{DyAyDuDaKClBdBpElAbDxAzD~AhE",
+            "simplePath": "rexmAxclvG_YxKvKwApXhr@}[kv@rYxx@c[mv@|Whs@kWkp@jUvo@}BmEmQqo@l\\rt@qEbEuW}r@~V`s@oZkw@lXvv@aZmr@jVzq@sYep@pTtl@_Til@pSfm@mVig@hRji@cSog@jIha@",
+            "markers": [
+                {
+                    "position": {
+                        "lat": -12.908583,
+                        "lng": -45.778699,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 10:41",
+                    "speed": 12.0,
+                    "direction": 351.6,
+                    "timeSec": 1601548898,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.904423,
+                        "lng": -45.780747,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 10:44",
+                    "speed": 10.6,
+                    "direction": 262.2,
+                    "timeSec": 1601549079,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.9082,
+                        "lng": -45.783866,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 10:57",
+                    "speed": 8.6,
+                    "direction": 243.9,
+                    "timeSec": 1601549869,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.910322,
+                        "lng": -45.788321,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 11:03",
+                    "speed": 8.6,
+                    "direction": 219.7,
+                    "timeSec": 1601550232,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.908253,
+                        "lng": -45.783689,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 11:10",
+                    "speed": 8.6,
+                    "direction": 64.0,
+                    "timeSec": 1601550655,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906249,
+                        "lng": -45.779482,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 11:14",
+                    "speed": 9.0,
+                    "direction": 44.1,
+                    "timeSec": 1601550866,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.908209,
+                        "lng": -45.784171,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:02",
+                    "speed": 7.3,
+                    "direction": 244.0,
+                    "timeSec": 1601553741,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.910262,
+                        "lng": -45.78877,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:07",
+                    "speed": 4.7,
+                    "direction": 64.0,
+                    "timeSec": 1601554044,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907859,
+                        "lng": -45.783724,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:12",
+                    "speed": 7.8,
+                    "direction": 64.0,
+                    "timeSec": 1601554345,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905735,
+                        "lng": -45.779447,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:16",
+                    "speed": 4.0,
+                    "direction": 256.6,
+                    "timeSec": 1601554605,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907773,
+                        "lng": -45.783831,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:21",
+                    "speed": 7.6,
+                    "direction": 244.0,
+                    "timeSec": 1601554889,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.910186,
+                        "lng": -45.788904,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:26",
+                    "speed": 3.9,
+                    "direction": 279.0,
+                    "timeSec": 1601555186,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907728,
+                        "lng": -45.784023,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:31",
+                    "speed": 7.4,
+                    "direction": 64.0,
+                    "timeSec": 1601555493,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.909677,
+                        "lng": -45.788402,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:44",
+                    "speed": 7.4,
+                    "direction": 260.3,
+                    "timeSec": 1601556279,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907288,
+                        "lng": -45.783674,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 12:50",
+                    "speed": 7.5,
+                    "direction": 63.9,
+                    "timeSec": 1601556640,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.909357,
+                        "lng": -45.788303,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 13:13",
+                    "speed": 7.5,
+                    "direction": 245.7,
+                    "timeSec": 1601557992,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906774,
+                        "lng": -45.783168,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 13:29",
+                    "speed": 7.5,
+                    "direction": 64.0,
+                    "timeSec": 1601558955,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.909976,
+                        "lng": -45.787018,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 14:23",
+                    "speed": 7.4,
+                    "direction": 244.0,
+                    "timeSec": 1601562233,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906553,
+                        "lng": -45.782992,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 14:32",
+                    "speed": 7.5,
+                    "direction": 63.9,
+                    "timeSec": 1601562777,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.908829,
+                        "lng": -45.788057,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 14:49",
+                    "speed": 7.5,
+                    "direction": 244.0,
+                    "timeSec": 1601563740,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906384,
+                        "lng": -45.783209,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 14:56",
+                    "speed": 7.6,
+                    "direction": 63.9,
+                    "timeSec": 1601564162,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.908544,
+                        "lng": -45.788033,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:07",
+                    "speed": 7.5,
+                    "direction": 244.0,
+                    "timeSec": 1601564830,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906114,
+                        "lng": -45.783218,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:14",
+                    "speed": 7.6,
+                    "direction": 64.0,
+                    "timeSec": 1601565254,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.908099,
+                        "lng": -45.787671,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:24",
+                    "speed": 7.5,
+                    "direction": 244.0,
+                    "timeSec": 1601565865,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905662,
+                        "lng": -45.782844,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:32",
+                    "speed": 7.5,
+                    "direction": 64.0,
+                    "timeSec": 1601566349,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907927,
+                        "lng": -45.787885,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:46",
+                    "speed": 7.2,
+                    "direction": 244.0,
+                    "timeSec": 1601567195,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905686,
+                        "lng": -45.783468,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 15:53",
+                    "speed": 7.6,
+                    "direction": 64.0,
+                    "timeSec": 1601567621,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907687,
+                        "lng": -45.787957,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 16:04",
+                    "speed": 0.1,
+                    "direction": 243.9,
+                    "timeSec": 1601568247,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905175,
+                        "lng": -45.78297,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 16:11",
+                    "speed": 7.6,
+                    "direction": 63.9,
+                    "timeSec": 1601568711,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.907082,
+                        "lng": -45.787259,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 16:19",
+                    "speed": 7.6,
+                    "direction": 244.0,
+                    "timeSec": 1601569196,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.904582,
+                        "lng": -45.7823,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 16:33",
+                    "speed": 9.4,
+                    "direction": 64.0,
+                    "timeSec": 1601569983,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906945,
+                        "lng": -45.787259,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:07",
+                    "speed": 7.6,
+                    "direction": 243.9,
+                    "timeSec": 1601572039,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.904376,
+                        "lng": -45.782154,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:16",
+                    "speed": 7.7,
+                    "direction": 54.1,
+                    "timeSec": 1601572581,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906395,
+                        "lng": -45.786678,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:23",
+                    "speed": 7.6,
+                    "direction": 244.0,
+                    "timeSec": 1601573004,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.904246,
+                        "lng": -45.782454,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:32",
+                    "speed": 7.4,
+                    "direction": 54.0,
+                    "timeSec": 1601573550,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.906269,
+                        "lng": -45.786989,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:38",
+                    "speed": 7.4,
+                    "direction": 244.0,
+                    "timeSec": 1601573911,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.903771,
+                        "lng": -45.782032,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:47",
+                    "speed": 5.6,
+                    "direction": 260.9,
+                    "timeSec": 1601574454,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905858,
+                        "lng": -45.7867,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 17:52",
+                    "speed": 7.5,
+                    "direction": 243.9,
+                    "timeSec": 1601574757,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.903643,
+                        "lng": -45.782339,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 18:01",
+                    "speed": 5.1,
+                    "direction": 284.1,
+                    "timeSec": 1601575303,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905709,
+                        "lng": -45.78696,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 18:06",
+                    "speed": 7.6,
+                    "direction": 244.0,
+                    "timeSec": 1601575606,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.903544,
+                        "lng": -45.782706,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 18:34",
+                    "speed": 3.6,
+                    "direction": 37.2,
+                    "timeSec": 1601577283,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905524,
+                        "lng": -45.787146,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 19:03",
+                    "speed": 7.4,
+                    "direction": 244.0,
+                    "timeSec": 1601579000,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.903309,
+                        "lng": -45.782996,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 19:12",
+                    "speed": 1.2,
+                    "direction": 202.2,
+                    "timeSec": 1601579546,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905139,
+                        "lng": -45.787489,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 20:13",
+                    "speed": 6.6,
+                    "direction": 244.4,
+                    "timeSec": 1601583205,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.903419,
+                        "lng": -45.782902,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 20:23",
+                    "speed": 5.5,
+                    "direction": 247.5,
+                    "timeSec": 1601583815,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                },
+                {
+                    "position": {
+                        "lat": -12.905515,
+                        "lng": -45.787417,
+                        "__typename": "LatLng"
+                    },
+                    "time": "01/10/2020 20:28",
+                    "speed": 6.6,
+                    "direction": 244.0,
+                    "timeSec": 1601584118,
+                    "color": "yellow",
+                    "__typename": "TrackMarker"
+                }
+            ],
+            "__typename": "TrackSegment"
+        }
+    ],
+    "__typename": "Track"
+}
