@@ -19,12 +19,14 @@ function loadScript(url) {
 
 loadScript(GOOGLE_MAPS_API_URL).then(() => {
   const map = new google.maps.Map(document.getElementById('map'), {
+    mapTypeId:'hybrid',
     center: {lat: -12.908583, lng: -45.778699},
     zoom: 16
   });
 
-  const rawData = require('./track-m.json');
-  const rawDataSegments = rawData.segments;
+  // const rawData = require('./track-m.json');
+  const rawData = require('./tracks-l.json');
+  const rawDataSegments = rawData instanceof Array ? rawData.flatMap((ovr) => ovr.segments) : rawData.segments;
   const paths = rawDataSegments.map(segment => {
     let path = google.maps.geometry.encoding.decodePath(segment.path);
     path = path.map(o => [o.lng(), o.lat()]);
@@ -32,6 +34,15 @@ loadScript(GOOGLE_MAPS_API_URL).then(() => {
        path,
      };
   });
+
+  // fit the map to all tracks
+  const coords = paths.flatMap(p => p.path).flatMap(p => ({ lat: p[1], lng: p[0] }));
+  console.log('%s points loaded', coords.length);
+  const bounds = coords.reduce((bounds, c) => {
+    bounds.extend(c);
+    return bounds;
+  }, new google.maps.LatLngBounds());
+  map.fitBounds(bounds);
 
   const markers = [];
   rawDataSegments.forEach(segment => {
